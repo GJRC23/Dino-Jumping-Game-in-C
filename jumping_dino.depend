@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1624308436 source:c:\users\lucas\desktop\utn\jumping_dino\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1624314744 source:c:\users\lucas\desktop\utn\jumping_dino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624588447 source:c:\users\lucas\desktop\utn\jumping_dino\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1624315650 source:c:\users\lucas\desktop\utn\jumping_dino\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1624301250 source:d:\documents\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1624300344 source:d:\documents\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624574046 source:d:\documents\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1635190190 source:d:\documents\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1624286850 source:c:\users\windows11\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1624285944 source:c:\users\windows11\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624559646 source:c:\users\windows11\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1635175790 source:c:\users\windows11\desktop\utn facultad\1er cuatrimestre 2021\programación y laboratorio 1\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
